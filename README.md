@@ -8,10 +8,10 @@
 <h1 style="font-family: Times New Roman">Andrew Scott</h1>
 <br>
 <nav style="font-family: Times New Roman">
-    <a href="One">One</a>
-    <a href="Two">Two</a>
-    <a href="Three">Three</a>
-    <a href="Four">Four</a>
+    <a href="/One/">One</a>
+    <a href="/Two/">Two</a>
+    <a href="/Three/">Three</a>
+    <a href="/Four/">Four</a>
 </nav>
 <br>
 <h2 style="font-family: Times New Roman">Favourite Foods</h2>
