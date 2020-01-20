@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
+  <title>a peer graded assignment webpage</title>
 <meta charset="UTF-8">
-</meta>
 </head>
-<body style="width:100%" style="width: 1024px">
+<body style="width: 1024px">
 <h1 style="font-family: Times New Roman">Andrew Scott</h1>
 <br>
-<table style="font-family: Times New Roman">
-  <tr>
-   <th><u>One</u></th>
-   <th><u>Two</u></th>
-   <th><u>Three</u></th>
-   <th><u>My Choose</u></th>
-  </tr>
-</table>
+<nav style="font-family: Times New Roman">
+  <ul>
+    <li><a href="One">One</a></li>
+    <li><a href="Two">Two</a></li>
+    <li><a href="Three">Three</a></li>
+    <li><a href="Four">Four</a></li>
+  </ul>
+ </nav>
 <br>
 <h2 style="font-family: Times New Roman">Favourite Foods</h2>
 <ul style="font-family: Times New Roman">
@@ -34,20 +34,3 @@
 <h3 style="font-family: Times New Roman">&#x25bc; My Childhood</h3>
 <p style="font-family: Times New Roman">I grew up in Hampshire, UK, in a semi-rural village 30 miles south of London </p>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-/
