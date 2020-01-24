@@ -6,7 +6,6 @@
 </head>
 <body style="width: 1024px">
 <h1>Andrew Scott</h1>
-<br>
 <nav>
     <a href="/One/">One</a>
     <a href="/Two/">Two</a>
