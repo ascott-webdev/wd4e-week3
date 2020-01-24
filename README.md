@@ -7,11 +7,13 @@
 <body style="width: 1024px">
 <h1 style="font-family: Times New Roman">Andrew Scott</h1>
 <br>
-<nav style="font-family: Times New Roman">
-    <a href="/One/">One</a>
-    <a href="/Two/">Two</a>
-    <a href="/Three/">Three</a>
-    <a href="/Four/">Four</a>
+<nav>
+  <ul>
+    <li><a href="One.html">One</a></li>
+    <li><a href="Two.html">Two</a></li>
+    <li><a href="Three.html">Three</a></li>
+    <li><a href="Four.html">Four</a></li>
+  </ul>    
 </nav>
 <br>
 <h2 style="font-family: Times New Roman">Favourite Foods</h2>
